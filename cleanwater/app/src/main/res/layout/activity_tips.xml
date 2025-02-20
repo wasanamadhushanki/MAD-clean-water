@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Water Conservation Tips"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#003366"
+            android:layout_gravity="center"
+            android:paddingBottom="12dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Fix Leaks: Leaky faucets or pipes can waste gallons of water every day. Repair leaks promptly to save water."
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="12dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Install a Water Meter: Track your water usage with a meter to become more aware of how much you're consuming."
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:paddingBottom="12dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Water Plants Wisely: Water plants in the early morning or late evening to minimize evaporation. Choose drought-resistant plants."
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:paddingBottom="12dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Turn Off the Tap: Don’t leave the water running while brushing your teeth or washing dishes."
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:paddingBottom="20dp"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/water_saving2" />
+    </LinearLayout>
+</ScrollView>
