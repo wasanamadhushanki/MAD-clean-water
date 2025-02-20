@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clean Water</string>
+    <string name="title_main">Clean Water and Sanitation</string>
+    <string name="btn_tips">Water Conservation Tips</string>
+    <string name="btn_report">Report Water Issue</string>
+    <string name="water_image_desc">A clean water drop icon</string>
+    <string name="report_water_issues">Report Water Issues</string>
+    <string name="your_name">Your Name</string>
+    <string name="location">Location</string>
+    <string name="issue_description">Issue Description</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit">Submit</string>
+    <string name="contact">Contact :</string>
+    <string name="phone_number">Contact Number: 076-6666666</string>
+    <string name="email">Email: cleanwater@gmail.com</string>
+
+</resources>
